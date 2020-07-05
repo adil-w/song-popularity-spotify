@@ -5,4 +5,7 @@ This project explores the different attributes of a song on Spotify to understan
 1. Stepwise Regression
 2. Ridge Regression
 3. Lasso Regression
-4. Random Forest
+4. Random Forest <br>
+
+**Please see the file *song_popularity_spotify_report.pdf* for a detailed breakdown of the analysis. <br>
+Refer to *code.Rmd* for all the code written.**
