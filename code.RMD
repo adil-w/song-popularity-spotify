@@ -81,7 +81,7 @@ library(randomForest)
 library(gbm)
 theme_set(theme_bw())
 
-spotify <- read.csv("song_data_no_outliers_100 col 10.9 better words.csv")
+spotify <- read.csv("data.csv")
 set.seed(1234)
 # This will split into train and test 70-30
 spotify$train <- sample(c(0, 1), nrow(spotify), replace = TRUE, prob = c(.3, .7))
