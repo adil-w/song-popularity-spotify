@@ -8,4 +8,4 @@ This project explores the different attributes of a song on Spotify to understan
 4. Random Forest <br>
 
 **Please see the file *song_popularity_spotify_report.pdf* for a detailed breakdown of the analysis. <br>
-Refer to *code.Rmd* for all the code written.**
+Refer to *code.RMD* for all the code written.**
